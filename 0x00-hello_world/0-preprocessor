@@ -1,6 +1,2 @@
 #!/bin/bash
 gcc -E $CFILE -o c
-int main(void)
-{
- return (0);
-}
